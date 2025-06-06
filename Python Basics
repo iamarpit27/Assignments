@@ -1,0 +1,21 @@
+# Question 1st Answer
+--------------------------------------------------
+a= int(input("Enter a First number:"))
+b= int(input("Enter a Second number:"))
+
+add = a+b
+sub = a-b
+mul = a*b
+div = a/b
+
+print("Addition: ", div)
+print("Subtraction: ", div)
+print("Multiplication: ", div)
+print("Division: ", div)
+--------------------------------------------------
+# Question 2nd Answer
+
+First = input("Enter a First Name:")
+Second = input("Enter a Second Name:")
+
+print("Hello,", First, Second,"! Welcome to the Python Program.")

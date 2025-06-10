@@ -1,0 +1,14 @@
+Question 1 Solution:
+------------------------------------------
+a = int(input("Enter first Number: "))
+if a % 2 == 0:
+    print("Even")
+else:
+    print("Odd")
+------------------------------------------
+Question 2 Solution:
+------------------------------------------
+sum = 0
+for i in range(1,51):
+    sum +=i
+    print("The sum of integers from 1 to 50 is:", sum)
